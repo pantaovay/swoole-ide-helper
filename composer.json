@@ -1,0 +1,11 @@
+{
+  "name": "pantaovay/swoole-ide-helper",
+  "homepage": "https://github.com/pantaovay/swoole-ide-helper",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tao Pan",
+      "homepage": "https://github.com/pantaovay"
+    }
+  ]
+}
